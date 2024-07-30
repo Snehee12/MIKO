@@ -42,4 +42,4 @@ flask --app app --debug run
 ```
 
 
-![image]([https://github.com/Snehee12/MIKO/blob/main/mikointerface.png])
+![Alt text](https://github.com/Snehee12/MIKO/blob/main/mikointerface.png)
